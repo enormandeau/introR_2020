@@ -1,12 +1,14 @@
 Bonjour,
 
-La formation d'introduction à R qui débute cette semaine et durera 6 semaines.
+La formation d'introduction à R débute cette semaine et durera 6 semaines.
 
 Il s'agit d'une formation gratuite et autonome, donc à distance, qui demande environ 1-2 heures par semaine.
 
 Cette formation est offerte aux membres de Ressources Aquatiques Québec (RAQ), aux membres de l'Institut de Biologie Intégrative et des Systèmes (IBIS) et de la communauté élargie autour de l'Université Laval. Vous êtes cependant invités à partager cette formation autour de vous avec vos collègues intéressés.
 
-Les directives pour cette semaine sont attachées à ce courriel en format PDF. Le matériel du cours se trouve sur GitHub à l'adresse suivante :
+Les directives pour cette semaine sont attachées à ce courriel en format PDF.
+
+Le matériel du cours et les directives (déposées à chaque semaine) se trouvent sur GitHub à l'adresse suivante :
 
   github.com/enormandeau/introR_2020
 
