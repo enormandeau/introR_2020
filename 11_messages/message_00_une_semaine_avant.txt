@@ -1,0 +1,15 @@
+Bonjour,
+
+Je lancerai une formation d'introduction à R qui débutera la semaine prochaine (20 janvier 2020) et durera 6 semaines.
+
+Il s'agit d'une formation autonome offerte aux membres de Ressources Aquatiques Québec (RAQ), aux membres de l'Institut de Biologie Intégrative et des Systèmes (IBIS) et de la communauté élargie autour de l'Université Laval. Vous êtes cependant invités à partager cette formation autour de vous avec vos collègues intéressés.
+
+À chaque semaine, vous recevrez en début de semaine un message avec un document décrivant les sections de matériel à lire et à pratiquer. Les documents que je vous fournirai seront en français mais le matériel lui-même est en anglais.
+
+Comme la seule façon d'apprendre un langage de programmation est en le pratiquant, vous serez invités à tester les commandes abordées dans les documents de cours dans RStudio, un environnement de programmation développé pour R. Vous installerez R et RStudio durant la première semaine.
+
+Lors de la formation, les membres de Ressources Aquatiques Québec (RAQ) qui auront des questions pourront me contacter par courriel pour du support. Je ne pourrai malheureusement pas étendre cette offre à toutes les personnes qui suivront la formation.
+
+En espérant que cette formation vous soit utile,
+
+Eric
