@@ -18,4 +18,4 @@ recherche [Ressources Aquatiques Québec](https://raq.uqar.ca/fr/).
 
 Il y aura 6 semaines en tout.
 
-- [Semaine 1 (PDF)](https://github.com/enormandeau/introR_2020/raw/master/03_semaines/introR_2020_semaine_01.pdf)
+- [Semaine 1 (PDF)](https://github.com/enormandeau/introR_2020/raw/master/03_semaines/intro_R_2020_semaine_01.pdf)
