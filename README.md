@@ -20,3 +20,4 @@ Il y aura 6 semaines en tout.
 
 - [Semaine 1 (PDF)](https://github.com/enormandeau/introR_2020/raw/master/03_semaines/intro_R_2020_semaine_01.pdf)
 - [Semaine 2 (PDF)](https://github.com/enormandeau/introR_2020/raw/master/03_semaines/intro_R_2020_semaine_02.pdf)
+- [Semaine 3 (PDF)](https://github.com/enormandeau/introR_2020/raw/master/03_semaines/intro_R_2020_semaine_03.pdf)
