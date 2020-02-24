@@ -1,0 +1,21 @@
+Bonjour,
+
+La formation d'introduction à R se pouruit pour la sixième et dernière semaine.
+
+Il s'agit d'une formation gratuite et autonome, donc à distance, qui demande environ 1-2 heures par semaine.
+
+Si vous n'avez pas encore commencé le matériel, il n'est donc pas trop tard !
+
+Cette formation est offerte aux membres de Ressources Aquatiques Québec (RAQ), aux membres de l'Institut de Biologie Intégrative et des Systèmes (IBIS) et de la communauté élargie autour de l'Université Laval. Vous êtes cependant invités à partager cette formation autour de vous en redirigeant ce courriel à vos collègues intéressés.
+
+Les directives pour cette semaine sont attachées à ce courriel en format PDF.
+
+Le matériel du cours et les directives (déposées à chaque semaine) se trouvent sur GitHub à l'adresse suivante :
+
+  github.com/enormandeau/introR_2020
+
+Lors de la formation, les membres de Ressources Aquatiques Québec (RAQ) qui auront des questions pourront me contacter par courriel pour du support. Je ne pourrai malheureusement pas étendre cette offre à toutes les personnes qui suivront la formation.
+
+En espérant que cette formation vous soit utile,
+
+Eric
