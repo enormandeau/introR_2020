@@ -4,7 +4,7 @@
 Formation à distance d'introduction à R
 
 Cette formation a été créée pour les membres du regroupement de
-recherche [Ressources Aquatiques Québec](https://raq.uqar.ca/fr/).
+recherche [Ressources Aquatiques Québec](https://raq.uqar.ca).
 
 ## Organisation des dossiers
 
